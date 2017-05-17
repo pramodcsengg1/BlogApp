@@ -1,5 +1,6 @@
 <application>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
+    <option name="CARET_BLINKING_PERIOD" value="1000" />
   </component>
 </application>
